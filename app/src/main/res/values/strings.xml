@@ -1,0 +1,9 @@
+<resources>
+    <string name="name">Full name</string>
+    <string name="app_name">Registration Form</string>
+    <string name="gender">Gender</string>
+    <string name="Student">Student ID</string>
+    <string name="school">School</string>
+    <string name="mail">E-mail</string>
+    <string name="phone">Phone</string>
+</resources>
